@@ -1,0 +1,10 @@
+GitHUB
+	账号：tangtao13579
+	密码：tangtao19891124
+
+阿里云服务器
+	账号：root
+	密码：tangTao19891124
+
+vncserver
+	密码：p1989112
